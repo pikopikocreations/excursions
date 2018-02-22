@@ -7,10 +7,34 @@ body {
 
 h1 {
   font-size: 50pt;
-  color: white;
 }
-
+h2 {
+  font-size:
+}
+h3 {
+  color: grey;
+  font-size: 21pt
+}
+p {
+  color: grey;
+  font-size: 16pt;
+}
 .cta {
-  font-size:16px;
   color; Aquamarine;
+  text-decoration: underline;
+}
+a:hover {
+  color: Aquamarine;
+  cursor: pointer;
+  text-decoration: underline;
+}
+a:active {
+  color: Aquamarine;
+  cursor: pointer;
+  text-decoration: underline;
+}
+a:visited {
+  color: Aquamarine;
+  cursor: pointer;
+  text-decoration: underline;
 }
